@@ -1,0 +1,1 @@
+This is a test plant image for PlantNet API
